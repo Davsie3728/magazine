@@ -1,0 +1,64 @@
+@charset "utf-8";
+#call {
+	width: 350px;
+	text-align: center;
+	float: left;
+	background-color: rgba(127,112,89,1.00);
+
+
+
+
+}
+#deer {
+	width: 400px;
+	height: 400px;
+	text-align: center;
+	float: left;
+	background-color: rgba(102,87,75,1.00);
+
+}
+#bag {
+	width: 400px;
+	text-align: center;
+	float: left;
+	clear: none;
+	background-color: rgba(108,74,46,1.00);
+}
+#gator {
+	width: 350px;
+	height: 400px;
+	float: left;
+	text-align: center;
+	clear: right;
+	background-color: rgba(108,78,38,1.00);
+
+
+
+}
+
+#turkey {
+	width: 400px;
+	height: 350px;
+	text-align: center;
+	float: left;
+	background-color: rgba(73,49,41,1.00);
+}
+#over {
+	text-align: center;
+	background-color: rgba(77,108,88,1.00);
+}
+#backpack {
+	text-align: center;
+	background-color: rgba(63,83,65,1.00);
+}
+#boots {
+	text-align: center;
+	background-color: rgba(13,85,45,1.00);
+}
+#coat {
+	text-align: center;
+	background-color: rgba(14,71,37,1.00);
+}
+#wide {
+	background-color: rgba(21,69,34,1.00);
+}
